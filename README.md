@@ -8,7 +8,7 @@
 </div>
  <br>
  
-  ### Entre em contato comigo nas redes abaixo!
+  ### Rede Social!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCIPY7abe_qmYyO8aZcd50xw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

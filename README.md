@@ -8,6 +8,13 @@
 </div>
  <br>
  
+ <b>GitHub Statuss</b>
+
+<p align="left" display="flex">
+<a href="https://github.com/JvBarbosaDev"><img src="https://github-readme-stats.vercel.app/api?username=JvBarbosaDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="João Vitor's GitHub stats" /></a>
+<a href="https://github.com/JvBarbosaDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JvBarbosaDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+ 
   ### Rede Social!
  
 <div> 
@@ -17,16 +24,7 @@
   <a href = "mailto:jvitorbarbosa2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a23584246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://portfolio.jvbarbosadev.repl.co/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FF0000?style=for-the-badge&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<b>GitHub Statuss</b>
-
-<p align="left" display="flex">
-<a href="https://github.com/JvBarbosaDev"><img src="https://github-readme-stats.vercel.app/api?username=JvBarbosaDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="João Vitor's GitHub stats" /></a>
-<a href="https://github.com/JvBarbosaDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JvBarbosaDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
 
  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)

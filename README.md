@@ -1,5 +1,5 @@
 <div>
-   <img src="https://cdn.discordapp.com/attachments/1003344066500636845/1012109021748146206/new-tecnologia.jpg">
+   <img src="https://cdn.discordapp.com/attachments/1003344066500636845/1012111252883001376/new-tecnologia.jpg">
 <div>
 
 ```

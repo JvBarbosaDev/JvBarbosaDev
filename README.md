@@ -8,7 +8,7 @@
    Pais: 'Brasil',
    Estado: 'São Paulo',
    Cidade: 'Mogi das Cruzes',
-   Atuo em: ['HTML', 'CSS', 'JAVASCRIPT', 'SASS'],
+   Habilidades ['HTML', 'CSS', 'JAVASCRIPT', 'SASS'],
    Futuramente: ['Vue.JS', 'React.JS', 'Node.JS', 'Angular'],
    Hobbies: ['Academia', 'Astronomia', 'Festas', 'Jogos', 'Estudos']
 ```

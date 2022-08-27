@@ -20,7 +20,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a23584246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/vitordazl_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://portfolio.jvbarbosadev.repl.co/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FF0000?style=for-the-badge&logoColor=white" target="_blank"></a>
+    <a href="https://portfolio-joaovitor.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FF0000?style=for-the-badge&logoColor=white" target="_blank"></a>
 
 </div>
 

@@ -13,6 +13,8 @@
    Hobbies: ['Academia', 'Astronomia', 'Festas', 'Jogos', 'Estudos']
 ```
 
+   <img align="right" height="500em" src="https://c.tenor.com/hkEk2W7w1GgAAAAi/minecraft.gif">
+   
   ### Rede Social!
   
 <div> 

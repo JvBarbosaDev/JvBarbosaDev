@@ -1,5 +1,5 @@
 <div>
-   <img src="https://cdn.discordapp.com/attachments/1003344066500636845/1012111252883001376/new-tecnologia.jpg">
+   <img src="https://cdn.discordapp.com/attachments/1013224315036119050/1019317924839821453/new-tecnologia.jpg">
 <div>
 
 ```
@@ -13,7 +13,6 @@
    Hobbies: ['Academia', 'Astronomia', 'Festas', 'Jogos', 'Estudos']
 ```
 
-   <img align="right" height="500em" src="https://c.tenor.com/hkEk2W7w1GgAAAAi/minecraft.gif">
    
   ### Rede Social!
   
@@ -31,8 +30,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
  
  </div>
  

@@ -45,7 +45,7 @@
  ### Mais Sobre Mim!
 
 <p>
-Olá, me chamo João Vitor Eu tenho 16 anos e moro em Mogi das Cruzes, SP, atualmente atuo como Desenvolvedor Front End. Sou um jovem apaixonado por           tecnologia, que está sempre em busca de mais conhecimento, para aprimorar minhas habilidades e entregar sempre o melhor possível.
+Olá, me chamo João Vitor Eu tenho 18 anos e moro em Mogi das Cruzes, SP, atualmente atuo como Desenvolvedor Front End. Sou um jovem apaixonado por           tecnologia, que está sempre em busca de mais conhecimento, para aprimorar minhas habilidades e entregar sempre o melhor possível.
 
  ### Soft Skills!
 

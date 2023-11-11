@@ -4,7 +4,7 @@
 
 ```
    C:\Usuario\JvBarbosaDev\GitHub\Sobre:
-   Idade: 18,
+   Idade: 17,
    Pais: 'Brasil',
    Estado: 'São Paulo',
    Cidade: 'Mogi das Cruzes',
